@@ -2,3 +2,4 @@ tensorflow
 gradio
 numpy
 requests
+pillow
